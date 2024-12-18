@@ -27,7 +27,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Food Delivery"
+                android:text="Food App"
                 android:textSize="20sp"
                 android:textStyle="bold"
                 android:textColor="#FFFFFF" />
@@ -64,6 +64,39 @@
                 android:layout_margin="10dp"
                 android:orientation="horizontal">
 
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginEnd="5dp"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/sal" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginEnd="5dp"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/turkey" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginEnd="5dp"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/naan" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginEnd="5dp"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/butchi" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/samosa" />
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="100dp"
